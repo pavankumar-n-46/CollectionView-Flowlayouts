@@ -5,8 +5,8 @@
 <table>
  <tr>
    <td>
-     <h3>PRE LOGIN</h3>
-<img src="assets/initial.png" width="300">
+     <h3>DEMO</h3>
+<img src="assets/CollectionViewAnimation.gif" width="300">
    </td>
  </tr>
 </table>
